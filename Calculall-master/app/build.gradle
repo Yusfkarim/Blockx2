@@ -1,0 +1,26 @@
+apply plugin: 'com.android.application'
+android {
+    compileSdkVersion 25
+    buildToolsVersion "25.0.2"
+
+    defaultConfig {
+        applicationId "com.trutechinnovations.calculall"
+        minSdkVersion 21
+        targetSdkVersion 25
+        vectorDrawables.useSupportLibrary = true
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            shrinkResources true
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+}
+
+dependencies {
+    compile 'com.android.support:support-compat:25.1.0'
+    compile 'com.android.support:appcompat-v7:25.1.0'
+    compile files('libs/symja-2015-08-09.jar')
+    compile 'com.android.support:design:25.1.0'
+}

@@ -1,0 +1,37 @@
+UltraBlock X by LaAbrah is a device protection app that helps you block websites, apps, keywords, and short-form video surfaces you choose, and set screen-time limits. Protection rules can be locked with a PIN.
+
+Website blocking
+Block selected websites and domains, including a large built-in adult-site list processed on the device.
+
+App blocking
+Block selected applications and newly installed apps until you approve them.
+
+Keyword protection
+Block selected keywords in supported browsers and app surfaces.
+
+Short video protection
+Optionally block Instagram Reels, Facebook Reels, and YouTube Shorts inside those apps and in the browser.
+
+Screen-time controls
+Set daily app time limits and scheduled quiet times.
+
+PIN protection
+Protect app settings and sensitive actions with a PIN.
+
+AccessibilityService Disclosure
+
+UltraBlock X by LaAbrah uses the Android AccessibilityService API only after the user gives explicit in-app consent through a two-choice disclosure (Allow or Not now). Back, Home, or tapping outside the disclosure is not consent. Enabling Accessibility, VPN, and other protections is optional; the user can skip them and use the app.
+
+What is observed: with permission, the service can detect the foreground app and read on-screen text on supported app and browser screens. This is used to identify blocked apps, blocked keywords, browser addresses and titles, short-form video surfaces (such as Reels and Shorts), screen-time or scheduled limits, and supported system settings screens that are PIN-protected.
+
+Why it is needed: these observations exist only to enforce the content-filtering and family-protection features the user chooses in the app.
+
+What it does not do: UltraBlock X by LaAbrah does not use AccessibilityService to collect or sell personal data, send observed screen content to a remote server, record audio, remotely control the device, or operate for advertising. Observed screen content is processed on the device to apply the user's rules. Users can deny consent, skip enabling the service, and turn it off later in Android Settings.
+
+VPNService Disclosure
+
+UltraBlock X by LaAbrah uses Android VpnService to provide optional device-level content filtering. The VPN creates a local filtering tunnel on the device so the app can inspect DNS and supported network requests and stop blocked domains, websites, and other selected content from loading.
+
+VpnService is used for content filtering and device protection chosen by the user. It is not used as a commercial privacy VPN, for advertising, for selling or monetizing traffic, or for unrelated purposes.
+
+Some optional features (such as checking for app updates) may use the internet when available. You can start or stop the VPN from the app. Accessibility and VPN are used only for the protection features described above.

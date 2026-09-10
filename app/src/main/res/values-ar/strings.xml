@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">بلوک اکس لا ئابره</string>
+    <string name="accessibility_description">خدمة الحماية BlockX LaAbrah. تحجب المحتوى الإباحي والتصيّد والتجاوز عبر المتصفحات والتطبيقات.</string>
+
+
+    <string name="shade_lock_title">حظر سحب شريط الإشعارات</string>
+    <string name="shade_lock_subtitle">يمنع إنزال شريط الإشعارات واللوحة العلوية</string>
+    <string name="settings_lock_title">قفل إعدادات الهاتف</string>
+    <string name="settings_lock_subtitle">قم بتفعيل هذا الخيار إذا لاحظت أن حماية الإعدادات المحددة للتطبيق لا تعمل بشكل جيد على هاتفك لمنع حذف التطبيق</string>
+    <string name="telegram_search_blocked_toast">عذراً، البحث العام محظور لحمايتك</string>
+    <string name="duration_dialog_title">كم من الوقت تريد أن يعمل؟</string>
+    <string name="duration_3m">٣ دقائق (تجربة)</string>
+    <string name="duration_12h">١٢ ساعة</string>
+    <string name="duration_1d">يوم واحد</string>
+    <string name="duration_2d">يومان</string>
+    <string name="duration_3d">٣ أيام</string>
+    <string name="duration_1w">أسبوع</string>
+    <string name="duration_14d">١٤ يوماً</string>
+    <string name="duration_20d">٢٠ يوماً</string>
+    <string name="duration_25d">٢٥ يوماً</string>
+    <string name="duration_30d">٣٠ يوماً</string>
+    <string name="duration_40d">٤٠ يوماً</string>
+    <string name="duration_60d">٦٠ يوماً</string>
+    <string name="duration_90d">٩٠ يوماً</string>
+    <string name="duration_120d">١٢٠ يوماً</string>
+    <string name="duration_150d">١٥٠ يوماً</string>
+    <string name="duration_190d">١٩٠ يوماً</string>
+    <string name="duration_220d">٢٢٠ يوماً</string>
+    <string name="duration_300d">٣٠٠ يوماً</string>
+    <string name="duration_365d">٣٦٥ يوماً (سنة كاملة)</string>
+    <string name="duration_forever">إلى الأبد</string>
+</resources>

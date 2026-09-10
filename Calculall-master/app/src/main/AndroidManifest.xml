@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.trutechinnovations.calculall"
+    android:versionCode="12"
+    android:versionName="4.0.2">
+
+<uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.VIBRATE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:theme="@style/AppTheme.BlackAndYellow">
+
+        <activity
+            android:name="com.trutechinnovations.calculall.MainActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppThemeNoActionBar.BlackAndYellow">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.trutechinnovations.calculall.SettingsActivity"
+            android:label="@string/title_activity_settings"
+            android:theme="@style/AppTheme.BlackAndYellow"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.trutechinnovations.calculall.HistoryActivity"
+            android:theme="@style/AppTheme.BlackAndYellow"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.trutechinnovations.calculall.AboutActivity"
+            android:theme="@style/AppTheme.BlackAndYellow"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.trutechinnovations.calculall.ThemeSelectActivity"
+            android:theme="@style/AppTheme.BlackAndYellow"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.trutechinnovations.calculall.ConstantsActivity"
+            android:theme="@style/AppTheme.BlackAndYellow"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.trutechinnovations.calculall.DecompositionSelectionActivity"
+            android:theme="@style/AppTheme.BlackAndYellow"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.trutechinnovations.calculall.ReductionActivity"
+            android:theme="@style/AppTheme.BlackAndYellow"
+            android:screenOrientation="portrait" />
+    </application>
+
+</manifest>

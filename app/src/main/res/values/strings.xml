@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">BlockX LaAbrah</string>
+    <string name="accessibility_description">BlockX LaAbrah protection service. Filters adult, phishing and bypass content across browsers and apps.</string>
+
+    <!-- Notification shade lock + extended duration picker (Kurdish/Arabic/English runtime
+         translations live in localization/Strings.kt; these resources are the canonical
+         declarations for Android tooling). -->
+
+    <string name="shade_lock_title">Block Notification Pull-Down</string>
+    <string name="shade_lock_subtitle">Prevents pulling down the notification shade and quick panel</string>
+    <string name="settings_lock_title">Phone Settings Lock</string>
+    <string name="settings_lock_subtitle">Enable this option if specific app settings protection is not working properly on your device to prevent uninstallation</string>
+    <string name="telegram_search_blocked_toast">Sorry, global search is blocked for your protection</string>
+
+    <string name="duration_dialog_title">How long do you want it to run?</string>
+    <string name="duration_3m">3 Minutes (Test)</string>
+    <string name="duration_12h">12 Hours</string>
+    <string name="duration_1d">1 Day</string>
+    <string name="duration_2d">2 Days</string>
+    <string name="duration_3d">3 Days</string>
+    <string name="duration_1w">1 Week</string>
+    <string name="duration_14d">14 Days</string>
+    <string name="duration_20d">20 Days</string>
+    <string name="duration_25d">25 Days</string>
+    <string name="duration_30d">30 Days</string>
+    <string name="duration_40d">40 Days</string>
+    <string name="duration_60d">60 Days</string>
+    <string name="duration_90d">90 Days</string>
+    <string name="duration_120d">120 Days</string>
+    <string name="duration_150d">150 Days</string>
+    <string name="duration_190d">190 Days</string>
+    <string name="duration_220d">220 Days</string>
+    <string name="duration_300d">300 Days</string>
+    <string name="duration_365d">365 Days (Full Year)</string>
+    <string name="duration_forever">Forever</string>
+</resources>

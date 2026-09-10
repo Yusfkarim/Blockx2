@@ -1,0 +1,47 @@
+IN-APP PROMINENT DISCLOSURE (paste-ready)
+App listing name: UltraBlock X by LaAbrah
+In-app name: BlockX LaAbrah
+Package: com.familyshield.protection
+
+Buttons:
+  Positive: Agree / Turn On
+  Dismiss:  Deny / Not now
+  Back / Home / outside tap = dismiss, NOT consent. Only Agree opens Accessibility settings.
+
+EN TITLE
+AccessibilityService disclosure
+
+EN BODY
+UltraBlock X by LaAbrah (shown in this app as BlockX LaAbrah) uses Android AccessibilityService to enforce the content-filtering and family-protection rules you choose.
+
+What is observed: the service can read the active app name and on-screen text on supported app and browser screens so the app can detect blocked apps, blocked keywords, browser page titles and addresses, short videos (such as Reels and Shorts), timed or scheduled limits, and protected system settings screens that require a PIN.
+
+Why it is needed: these observations are used only to apply the blocking and PIN-protection features you turn on in the app.
+
+What it does not do: BlockX LaAbrah does not use AccessibilityService to collect or send your screen content to a server, record audio, remotely control the device, or sell data. You can turn the service off later in Android Settings.
+
+EN HINT
+You can choose whether to enable this service. Enabling it is optional until you tap Agree / Turn On.
+
+AR TITLE
+إفصاح AccessibilityService
+
+AR POSITIVE
+موافقة / تشغيل
+
+AR DISMISS
+رفض / ليس الآن
+
+KU TITLE
+ئاشکراکردنی AccessibilityService
+
+KU POSITIVE
+ڕەزامەندم / هەڵبکە
+
+KU DISMISS
+ڕەتم دەکەمەوە / ئێستا نا
+
+Paste Play long description from:
+  play-store/full-description-en.txt
+  play-store/full-description-ar.txt
+  play-store/full-description-ku.txt

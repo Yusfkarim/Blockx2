@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">BlockX LaAbrah</string>
+    <string name="accessibility_description">خزمەتگوزاری پاراستنی BlockX LaAbrah. شتە ئێسکانە، فیشینگ و دەربازبوونەکان لە براوسەر و ئەپەکان دەگرێ.</string>
+
+
+    <string name="shade_lock_title">قفلکردنی دابەزاندنی نۆتیفەیشن</string>
+    <string name="shade_lock_subtitle">ڕێگری لە دابەزاندنی شەریتی نۆتیفەیشن و پانێڵی سەرەوە</string>
+    <string name="settings_lock_title">قفلکردنی سێتینگی مۆبایل</string>
+    <string name="settings_lock_subtitle">ئەم تایبەتمەندییە کاتێک داگیرسێنە کە زانیت پاراستنی سێتینگی ئەپەکە بە باشی ئیش ناکات لەسەر مۆبایلەکەت، تاوەکو ڕێگری بکات لە سڕینەوەی ئەپەکە</string>
+    <string name="telegram_search_blocked_toast">ببورە، گەڕانە گشتی پابەندە لەبەر پاراستنت</string>
+    <string name="duration_dialog_title">بۆ چەنێک ئەتەوێت ئیش بکات؟</string>
+    <string name="duration_3m">٣ خولەک (تاقیکردنەوە)</string>
+    <string name="duration_12h">١٢ کاتژمێر</string>
+    <string name="duration_1d">ڕۆژێک</string>
+    <string name="duration_2d">٢ ڕۆژ</string>
+    <string name="duration_3d">٣ ڕۆژ</string>
+    <string name="duration_1w">هەفتەیەک</string>
+    <string name="duration_14d">١٤ ڕۆژ</string>
+    <string name="duration_20d">٢٠ ڕۆژ</string>
+    <string name="duration_25d">٢٥ ڕۆژ</string>
+    <string name="duration_30d">٣٠ ڕۆژ</string>
+    <string name="duration_40d">٤٠ ڕۆژ</string>
+    <string name="duration_60d">٦٠ ڕۆژ</string>
+    <string name="duration_90d">٩٠ ڕۆژ</string>
+    <string name="duration_120d">١٢٠ ڕۆژ</string>
+    <string name="duration_150d">١٥٠ ڕۆژ</string>
+    <string name="duration_190d">١٩٠ ڕۆژ</string>
+    <string name="duration_220d">٢٢٠ ڕۆژ</string>
+    <string name="duration_300d">٣٠٠ ڕۆژ</string>
+    <string name="duration_365d">٣٦٥ ڕۆژ (ساڵ تەواو)</string>
+    <string name="duration_forever">بۆ هەتاهەتایە</string>
+</resources>
